@@ -1,11 +1,11 @@
 import React from 'react';
 
-const BlogPage = () => {
+const Navbar = () => {
     return (
         <div>
-            this is blog page
+            
         </div>
     );
 };
 
-export default BlogPage;
+export default Navbar;
